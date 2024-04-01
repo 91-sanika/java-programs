@@ -1,1 +1,1 @@
-package thread;
+package edu.com;
